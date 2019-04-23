@@ -1,6 +1,10 @@
 ARE212
 ======
 
+# April 2019 update
+
+Most recent version (and much better) versions of these notes are available on Ed Rubin's website: http://edrub.in/ARE212/
+
 # Section notes
 
 This is a repository for the latest version of the ARE212 section
